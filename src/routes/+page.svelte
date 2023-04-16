@@ -36,10 +36,10 @@
 </div>
 
 <style>
-    @import url(//db.onlinewebfonts.com/c/01173b246d9d9ea808ea75a26b3b61bb?family=Circular+Spotify+Tx+T+Black);
+    @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
     * {
-        font-family: "Circular Spotify Tx T Black";
+        font-family: 'Varela Round', sans-serif;
     }
     h1 {
         font-size: 2em;
